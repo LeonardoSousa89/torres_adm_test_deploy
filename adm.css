@@ -115,6 +115,7 @@ https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
         text-align: center;
 
         background-color: whitesmoke;
+        padding: 6em;
     }
     .dropdown{
         display: block;
